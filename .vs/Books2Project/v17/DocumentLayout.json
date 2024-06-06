@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INTERNSHIP\\Books2Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\data\\bookdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\data\\bookdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\books2project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\books2project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\migrations\\20240523133706_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\migrations\\20240523133706_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\data\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\data\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\model\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\model\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|d:\\internship\\books2project\\books2project\\books2project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1302D76E-3FC0-4B83-ACC9-5E5D1C103DC1}|Books2Project\\Books2Project.csproj|solutionrelative:books2project\\books2project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240523133706_CreateUserTable.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Migrations\\20240523133706_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Migrations\\20240523133706_CreateUserTable.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Migrations\\20240523133706_CreateUserTable.cs",
+              "RelativeToolTip": "Books2Project\\Migrations\\20240523133706_CreateUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:37:07.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Books2Project\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:30:47.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Books2Project\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:26:16.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookservice.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Service\\Bookservice.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Service\\Bookservice.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Service\\Bookservice.cs",
+              "RelativeToolTip": "Books2Project\\Service\\Bookservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:23:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Model\\Role.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\Role.cs",
+              "RelativeToolTip": "Books2Project\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:00:03.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDbContest.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Data\\BookDbContest.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Data\\BookDbContest.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Data\\BookDbContest.cs",
+              "RelativeToolTip": "Books2Project\\Data\\BookDbContest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:07:59.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books2Project.http",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Books2Project.http",
+              "RelativeDocumentMoniker": "Books2Project\\Books2Project.http",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Books2Project.http",
+              "RelativeToolTip": "Books2Project\\Books2Project.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-23T13:38:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Model\\Book.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\Book.cs",
+              "RelativeToolTip": "Books2Project\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:57:04.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Program.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Program.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Program.cs",
+              "RelativeToolTip": "Books2Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:12:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Books2Project\\appsettings.json",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\appsettings.json",
+              "RelativeToolTip": "Books2Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T13:12:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Model\\UserRoleDto.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\UserRoleDto.cs",
+              "RelativeToolTip": "Books2Project\\Model\\UserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:04:43.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Books2Project\\Model\\User.cs",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Model\\User.cs",
+              "RelativeToolTip": "Books2Project\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:57:58.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Books2Project.csproj",
+              "DocumentMoniker": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Books2Project.csproj",
+              "RelativeDocumentMoniker": "Books2Project\\Books2Project.csproj",
+              "ToolTip": "D:\\INTERNSHIP\\Books2Project\\Books2Project\\Books2Project.csproj",
+              "RelativeToolTip": "Books2Project\\Books2Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T12:33:52.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
